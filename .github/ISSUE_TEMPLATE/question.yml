@@ -1,0 +1,28 @@
+name: "❓ Ask a question"
+description: Stuck on something? Ask here. No question is too basic.
+title: "[Question] "
+labels: ["question"]
+body:
+  - type: input
+    id: week
+    attributes:
+      label: Which week or topic is this about?
+      placeholder: "Week 3, Cloud Run"
+  - type: textarea
+    id: question
+    attributes:
+      label: What is your question?
+    validations:
+      required: true
+  - type: textarea
+    id: tried
+    attributes:
+      label: What have you tried?
+      description: Include commands and error messages. Remove any keys, tokens or project identifiers first.
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Before you submit
+      options:
+        - label: I have removed passwords, keys, tokens and private information from this issue
+          required: true

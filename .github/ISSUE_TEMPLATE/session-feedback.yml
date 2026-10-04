@@ -1,0 +1,42 @@
+name: "💬 Session feedback"
+description: Tell us how a session went
+title: "[Feedback] Week "
+labels: ["feedback"]
+body:
+  - type: dropdown
+    id: week
+    attributes:
+      label: Which session?
+      options:
+        - Week 1
+        - Week 2
+        - Week 3
+        - Week 4
+        - Week 5
+        - Week 6
+        - Week 7
+        - Week 8
+        - Week 9
+        - Week 10
+    validations:
+      required: true
+  - type: dropdown
+    id: pace
+    attributes:
+      label: Pace
+      options:
+        - Too slow
+        - About right
+        - Too fast
+  - type: textarea
+    id: good
+    attributes:
+      label: What worked well?
+  - type: textarea
+    id: improve
+    attributes:
+      label: What could be better?
+  - type: textarea
+    id: next
+    attributes:
+      label: What would you like to learn next?
