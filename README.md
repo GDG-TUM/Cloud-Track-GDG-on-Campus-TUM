@@ -51,7 +51,7 @@ The Cloud Track is for students who want to understand how modern software is bu
 | **Get ideas for a project** | [Project Ideas](projects/ideas.md) |
 | **Check my project's security** | [Cloud Security Checklist](resources/cloud-security-checklist.md) |
 | **Prepare for a certification** | [Certifications](resources/certifications.md) |
-| **Ask a question** | [Open a question issue](../../issues/new/choose) |
+| **Ask a question** | [Open a question issue](https://github.com/GDG-TUM/cloud-track/issues/new/choose) |
 | **Get answers to common questions** | [FAQ](FAQ.md) |
 
 ### Your journey through the track
@@ -163,7 +163,7 @@ Each project needs: a public repo, a README, a live demo or a recording, and a s
 | 💡 [Project ideas](projects/ideas.md) | Beginner, intermediate, AI and security ideas |
 | 📝 [README template](projects/project-template.md) | Copy this into your project |
 | 🌟 [Showcase](projects/showcase.md) | Finished projects from members |
-| 🚀 [Propose a capstone](../../issues/new/choose) | Open a *Capstone proposal* issue |
+| 🚀 [Propose a capstone](https://github.com/GDG-TUM/cloud-track/issues/new/choose) | Open a *Capstone proposal* issue |
 
 ---
 
@@ -216,7 +216,7 @@ Each project needs: a public repo, a README, a live demo or a recording, and a s
 - Projects shown at demo day
 - Members who go on to hackathons, internships or certifications
 
-Tell us how we are doing: [give session feedback](../../issues/new/choose).
+Tell us how we are doing: [give session feedback](https://github.com/GDG-TUM/cloud-track/issues/new/choose).
 
 ---
 
@@ -231,7 +231,7 @@ I commit to:
 - Holding a short monthly check-in so nobody falls behind quietly
 - Sharing what I learn along the way, including mistakes
 
-*Suggestions are welcome. [Open an issue](../../issues/new/choose) or talk to me directly.*
+*Suggestions are welcome. [Open an issue](https://github.com/GDG-TUM/cloud-track/issues/new/choose) or talk to me directly.*
 
 ---
 
@@ -279,7 +279,7 @@ cloud-track/
 | 📋 **Chapter project board** | [GDG-TUM Projects](https://github.com/orgs/GDG-TUM/projects) |
 | 💼 **LinkedIn** | [GDG on Campus TUM](https://www.linkedin.com/company/gdg-on-campus-tum/) |
 | ✉️ **Email** | [gdgtum@gmail.com](mailto:gdgtum@gmail.com) |
-| 💬 **Questions about this track** | [Open an issue](../../issues/new/choose) |
+| 💬 **Questions about this track** | [Open an issue](https://github.com/GDG-TUM/cloud-track/issues/new/choose) |
 
 📄 Licensed under the [MIT License](LICENSE).
 
