@@ -1,0 +1,47 @@
+- [🏠 Home](/README.md)
+- [🚀 Getting Started](/GETTING-STARTED.md)
+- [❓ FAQ](/FAQ.md)
+
+- **🗓️ Plan**
+  - [Semester Roadmap](/roadmap/semester-roadmap.md)
+  - [Weekly Sessions](/weekly-sessions/README.md)
+    - [Week 1: Cloud fundamentals](/weekly-sessions/week-01-cloud-fundamentals/README.md)
+    - [Week 2: Tools of the trade](/weekly-sessions/week-02-tools-of-the-trade/README.md)
+    - [Week 3: Compute and containers](/weekly-sessions/week-03-compute-and-containers/README.md)
+    - [Week 4: Agentic AI study jam](/weekly-sessions/week-04-agentic-ai-study-jam/README.md)
+    - [Week 5: Hackathon week](/weekly-sessions/week-05-hackathon-week/README.md)
+    - [Week 6: Debrief and data](/weekly-sessions/week-06-debrief-and-data/README.md)
+    - [Week 7: CI/CD](/weekly-sessions/week-07-cicd-github-actions/README.md)
+    - [Week 8: Infrastructure as Code](/weekly-sessions/week-08-infrastructure-as-code/README.md)
+    - [Week 9: Security and monitoring](/weekly-sessions/week-09-security-and-monitoring/README.md)
+    - [Week 10: Demo day](/weekly-sessions/week-10-demo-day/README.md)
+
+- **🧭 Learn**
+  - [Learning Path](/learning-path/README.md)
+    - [1. Foundations](/learning-path/01-foundations.md)
+    - [2. Tools](/learning-path/02-tools.md)
+    - [3. Build and deploy](/learning-path/03-build-and-deploy.md)
+    - [4. CI/CD and IaC](/learning-path/04-cicd-and-iac.md)
+    - [5. Security and observability](/learning-path/05-security-and-observability.md)
+    - [6. AI on the cloud](/learning-path/06-ai-on-cloud.md)
+  - [🏆 Hackathon Prep](/hackathon-prep/README.md)
+
+- **🚀 Build**
+  - [Capstone Guide](/projects/README.md)
+  - [Project Ideas](/projects/ideas.md)
+  - [Project README Template](/projects/project-template.md)
+  - [Showcase](/projects/showcase.md)
+  - [Members](/members/README.md)
+
+- **📚 Resources**
+  - [All Resources](/resources/README.md)
+  - [Free Resources](/resources/free-resources.md)
+  - [Glossary](/resources/glossary.md)
+  - [Certifications](/resources/certifications.md)
+  - [Security Checklist](/resources/cloud-security-checklist.md)
+  - Cheat sheets
+    - [Git](/resources/cheatsheets/git.md)
+    - [Docker](/resources/cheatsheets/docker.md)
+    - [gcloud](/resources/cheatsheets/gcloud.md)
+    - [Linux](/resources/cheatsheets/linux.md)
+    - [Terraform](/resources/cheatsheets/terraform.md)
