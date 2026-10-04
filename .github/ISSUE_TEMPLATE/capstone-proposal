@@ -1,0 +1,49 @@
+name: "🚀 Capstone proposal"
+description: Propose your team's capstone project
+title: "[Capstone] Project name"
+labels: ["capstone"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Project name
+    validations:
+      required: true
+  - type: textarea
+    id: team
+    attributes:
+      label: Team members (GitHub usernames)
+      placeholder: "@user1, @user2, @user3"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem and audience
+      description: Who has this problem and why does it matter?
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed solution
+    validations:
+      required: true
+  - type: textarea
+    id: stack
+    attributes:
+      label: Planned tech and cloud services
+  - type: textarea
+    id: milestones
+    attributes:
+      label: Milestones
+      value: |
+        - [ ] Week 6: proposal and repo
+        - [ ] Week 7: CI pipeline
+        - [ ] Week 8: infrastructure as code
+        - [ ] Week 9: security review and monitoring
+        - [ ] Week 10: demo day
+  - type: textarea
+    id: risks
+    attributes:
+      label: Risks or help needed
