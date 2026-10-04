@@ -1,0 +1,20 @@
+# Secrets and local config
+.env
+.env.*
+*.pem
+*.key
+*credentials*.json
+service-account*.json
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+crash.log
+
+# OS and editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
