@@ -1,0 +1,28 @@
+[← Back to Cloud Track home](../README.md)
+
+
+# 📅 Weekly Sessions
+
+One session per week. Each folder has the goal, prerequisites, agenda, a hands-on reference, a take-home challenge and a place for notes and slides.
+
+| Week | Date | Session | Goal |
+|------|------|---------|------|
+| 1 | 12 Oct | [Cloud fundamentals](week-01-cloud-fundamentals/README.md) | Understand the cloud and set up a safe account. |
+| 2 | 19 Oct | [Tools of the trade](week-02-tools-of-the-trade/README.md) | Get comfortable with Linux, Git and Docker. |
+| 3 | 26 Oct | [Compute and containers](week-03-compute-and-containers/README.md) | Put a container on the internet. |
+| 4 | 2 Nov | [Agentic AI study jam](week-04-agentic-ai-study-jam/README.md) | Learn the basics of AI agents on Google Cloud and prepare for the hackathon. |
+| 5 | 9 Nov | [Hackathon week](week-05-hackathon-week/README.md) | Form teams and take part in the Google Kenya hackathon on 13 Nov. |
+| 6 | 16 Nov | [Debrief and data](week-06-debrief-and-data/README.md) | Learn from the hackathon, then cover storage, databases and networking. |
+| 7 | 23 Nov | [CI/CD with GitHub Actions](week-07-cicd-github-actions/README.md) | Automate build, test and deploy. |
+| 8 | 30 Nov | [Infrastructure as Code](week-08-infrastructure-as-code/README.md) | Define cloud resources in code. |
+| 9 | 7 Dec | [Security and monitoring](week-09-security-and-monitoring/README.md) | Harden your project and make it observable. |
+| 10 | 14 Dec | [Demo day](week-10-demo-day/README.md) | Show what you built, reflect, and plan the next semester. |
+
+## Missed a session?
+Open the week's folder, read the README, finish the challenge and ask questions in the track channel.
+
+## Adding session notes
+After each session the Track Lead (or any member who took notes) can add slides and links to that week's README through a pull request. See the [contributing guide](https://github.com/GDG-TUM/.github/blob/main/CONTRIBUTING.md).
+
+## Template
+Running a new session? Copy [`_template/README.md`](_template/README.md).
