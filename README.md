@@ -99,11 +99,11 @@ Each project needs: a public repo, a README, a live demo or a recording, and a s
 
 ## 📚 Free resources to start with
 
-- Google Cloud Skills Boost (free labs and learning paths)
-- Google Cloud documentation and quickstarts
-- GitHub Skills (interactive Git and GitHub courses)
-- Docker's official getting-started guide
-- Terraform tutorials on HashiCorp Developer
+- Google Cloud Skills Boost (free labs and learning paths)-(https://www.skills.google/)
+- Google Cloud documentation and quickstarts-(https://docs.cloud.google.com/docs)
+- GitHub Skills (interactive Git and GitHub courses)-(https://github.com/SKILLS)
+- Docker's official getting-started guide -(https://docs.docker.com/get-started/)
+- Terraform tutorials on HashiCorp Developer -(https://developer.hashicorp.com/terraform/tutorials)
 
 ---
 
