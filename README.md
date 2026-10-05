@@ -281,7 +281,7 @@ cloud-track/
 | ✉️ **Email** | [gdgtum@gmail.com](mailto:gdgtum@gmail.com) |
 | 💬 **Questions about this track** | [Open an issue](https://github.com/GDG-TUM/cloud-track/issues/new/choose) |
 
-📄 Licensed under the [MIT License](LICENSE). curated by <Mark Karuga>
+📄 Licensed under the [MIT License](LICENSE). curated by Karuga Mark.
 
 <div align="center">
 
