@@ -52,7 +52,7 @@ gantt
 
 | | Week | Date | Session | You will... | Status |
 |:-:|:-:|:-:|---|---|:-:|
-| ☁️ | **1** | 12 Oct | **[Cloud fundamentals](week-01-cloud-fundamentals/README.md)** | Understand the cloud and set up a safe, cost-controlled account | 🟡 Upcoming |
+| ☁️ | **1** | 12 Oct | **[Cloud fundamentals](week-01-cloud-fundamentals/README.md)** | Understand the cloud and set up a safe, cost-controlled account | DONE |
 | 🧰 | **2** | 19 Oct | **[Tools of the trade](week-02-tools-of-the-trade/README.md)** | Get comfortable with Linux, Git and Docker, and make your first pull request | 🟡 Upcoming |
 
 ## 🛠️ Phase 2: Build
