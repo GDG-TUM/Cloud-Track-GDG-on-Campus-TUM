@@ -3,7 +3,7 @@
 
 # Week 1: Cloud fundamentals
 
-**Date:** 12 Oct (draft; confirm time and venue in the track channel)
+**Date:** 12 Oct (online->shared venue via event channel)
 
 **Goal:** Understand the cloud and set up a safe account.
 
