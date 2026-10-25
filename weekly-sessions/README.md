@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 📅 Weekly Sessions
+# Weekly Sessions
 
 **10 weeks · 1 session a week · 1 thing working at the end of each**
 
@@ -11,7 +11,7 @@
 ![Cost](https://img.shields.io/badge/cost-free%20to%20join-FBBC04?style=for-the-badge&labelColor=555)
 ![Platform](https://img.shields.io/badge/platform-Google%20Cloud-EA4335?style=for-the-badge)
 
-[🚀 Start with Week 1](week-01-cloud-fundamentals/README.md) · [🧭 Learning path](../learning-path/README.md) · [🏆 Hackathon prep](../hackathon-prep/README.md) · [📚 Resources](../resources/README.md)
+[ Start with Week 1](week-01-cloud-fundamentals/README.md) · [Learning path](../learning-path/README.md) · [ Hackathon prep](../hackathon-prep/README.md) · [Resources](../resources/README.md)
 
 </div>
 
