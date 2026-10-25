@@ -1,6 +1,6 @@
 <div align="center">
 
-# ☁️ Cloud Track | GDG on Campus TUM
+# Cloud Track | GDG on Campus TUM
 
 ### Learn it. Build it. Deploy it. Secure it.
 
@@ -9,7 +9,7 @@
 ![Platform](https://img.shields.io/badge/platform-Google%20Cloud-EA4335?style=for-the-badge)
 ![Cost](https://img.shields.io/badge/join-free-FBBC04?style=for-the-badge&labelColor=555)
 
-[🚀 Getting Started](GETTING-STARTED.md) · [📅 Weekly Sessions](weekly-sessions/README.md) · [🧭 Learning Path](learning-path/README.md) · [📚 Resources](resources/README.md) · [❓ FAQ](FAQ.md)
+[ Getting Started](GETTING-STARTED.md) · [ Weekly Sessions](weekly-sessions/README.md) · [ Learning Path](learning-path/README.md) · [ Resources](resources/README.md) · [ FAQ](FAQ.md)
 
 </div>
 
@@ -24,7 +24,7 @@ The Cloud Track is for students who want to understand how modern software is bu
 
 ---
 
-## 🧭 Start here: how to use this repo
+##  Start here: how to use this repo
 
 ### If you are new, follow these 5 steps
 
@@ -71,12 +71,12 @@ flowchart LR
 
 ### Jump around this page
 
-[🎯 Goals](#goals) · [🧭 Learning path](#learning-path) · [🗓️ Roadmap](#roadmap) · [🛠️ Typical week](#typical-week) · [🚀 Capstones](#capstones) · [👥 Roles](#roles) · [✅ Get involved](#involved) · [📚 Resources](#resources) · [📈 Success](#success) · [🤝 Lead commitments](#commitments) · [⚠️ Good to know](#good-to-know) · [📬 Contact](#contact)
+[ Goals](#goals) · [ Learning path](#learning-path) · [ Roadmap](#roadmap) · [ Typical week](#typical-week) · [ Capstones](#capstones) · [ Roles](#roles) · [Get involved](#involved) · [ Resources](#resources) · [ Success](#success) · [ Lead commitments](#commitments) · [ Good to know](#good-to-know) · [ Contact](#contact)
 
 ---
 
 <a id="goals"></a>
-## 🎯 Track goals for the 2026/27 academic year
+##  Track goals for the 2026/27 academic year
 
 By the end of the semester, every active member should be able to:
 
@@ -91,7 +91,7 @@ By the end of the semester, every active member should be able to:
 ---
 
 <a id="learning-path"></a>
-## 🧭 Learning path
+##  Learning path
 
 Six stages, each with its own page of topics, hands-on tasks and a checkpoint. [See the full learning path →](learning-path/README.md)
 
@@ -107,7 +107,7 @@ Six stages, each with its own page of topics, hands-on tasks and a checkpoint. [
 ---
 
 <a id="roadmap"></a>
-## 🗓️ Semester roadmap (draft: October to December 2026)
+##  Semester roadmap (draft: October to December 2026)
 
 Click a week to open its agenda, take-home challenge and notes. [Full roadmap →](roadmap/semester-roadmap.md)
 
@@ -133,7 +133,7 @@ Hackathon details: [Hackathon Prep](hackathon-prep/README.md)
 ---
 
 <a id="typical-week"></a>
-## 🛠️ How a typical week works
+##  How a typical week works
 
 - **One session per week** (hands-on, around 90 minutes: short explanation, then build together)
 - **Take-home challenge**, small enough to finish in 1 to 2 hours
@@ -145,7 +145,7 @@ Hackathon details: [Hackathon Prep](hackathon-prep/README.md)
 ---
 
 <a id="capstones"></a>
-## 🚀 Capstone projects
+## Capstone projects
 
 From week 6, members work in small teams (3 to 4 people) on a project that is deployed and documented. Ideas:
 
