@@ -14,9 +14,9 @@
 - [Week 10: Cloud networking and service connectivity](week-10.md) · [Guided lab](../labs/week-10-cloud-networking.md)
 - [Week 11: CI/CD with GitHub Actions](week-11.md) · [Guided lab](../labs/week-11-ci-cd-github-actions.md)
 - [Week 12: Infrastructure as Code with Terraform](week-12.md) · [Guided lab](../labs/week-12-terraform-iac.md)
-- [Week 13: Cloud security engineering](week-13.md)
-- [Week 14: Observability, reliability and cost](week-14.md)
-- [Week 15: Capstone hardening and review](week-15.md)
-- [Week 16: Demo day and retrospective](week-16.md)
+- [Week 13: Cloud security engineering](week-13.md) · [Guided lab](../labs/week-13-cloud-security.md)
+- [Week 14: Observability, reliability and cost](week-14.md) · [Guided lab](../labs/week-14-observability-reliability.md)
+- [Week 15: Capstone hardening and review](week-15.md) · [Guided lab](../labs/week-15-capstone-hardening.md)
+- [Week 16: Demo day and retrospective](week-16.md) · [Guided lab](../labs/week-16-capstone-demo-day.md)
 
-Weeks 1–12 now include practical labs. Weeks 13–16 will receive step-by-step labs in subsequent iterations.
+All 16 weeks now have a linked practical lab. Local alternatives are included where possible; cloud provisioning remains subject to facilitator approval and a clear budget/cleanup owner.
