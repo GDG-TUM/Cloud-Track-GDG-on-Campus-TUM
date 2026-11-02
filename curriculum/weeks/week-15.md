@@ -1,6 +1,6 @@
 # Week 15: Capstone hardening and review
 
-[← All weekly guides](README.md) · [← Curriculum overview](../README.md)
+[← All weekly guides](README.md) · [← Curriculum overview](../README.md) · [Step-by-step lab](../labs/week-15-capstone-hardening.md)
 
 ## Goal
 Bring the capstone to a reviewable release candidate and respond to peer feedback.
