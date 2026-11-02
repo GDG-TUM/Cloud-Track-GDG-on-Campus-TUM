@@ -31,7 +31,7 @@ Organization/folder/project hierarchy; APIs; gcloud; regions; principals; roles;
 Inspect a learning project or guided sandbox. Configure gcloud, select a project, inspect APIs and review IAM bindings.
 
 ## Stretch challenge
-Create a narrowly scoped service identity in a controlled lab and distinguish human identity from workload identity.
+In a facilitator-provided sandbox, review an existing service identity and propose a narrowly scoped role. Do not create identities or change IAM bindings as part of this lab; explain the difference between human identity and workload identity.
 
 ## Evidence to submit
 Redacted CLI notes, hierarchy sketch and least-privilege explanation.
