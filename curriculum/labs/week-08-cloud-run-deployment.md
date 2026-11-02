@@ -188,8 +188,8 @@ gcloud run services delete "$SERVICE" \
 If the project owner confirms that this image tag belongs only to your lab, remove that artifact:
 
 ```bash
-gcloud artifacts docker images delete \\
-  "$REGION-docker.pkg.dev/$PROJECT_ID/$REPOSITORY/$IMAGE:week-08" \\
+gcloud artifacts docker images delete \
+  "$REGION-docker.pkg.dev/$PROJECT_ID/$REPOSITORY/$IMAGE:week-08" \
   --delete-tags --quiet --project="$PROJECT_ID"
 ```
 

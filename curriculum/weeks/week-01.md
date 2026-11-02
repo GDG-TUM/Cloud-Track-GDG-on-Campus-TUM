@@ -28,7 +28,7 @@ Service models; regions and zones; shared responsibility; resource hierarchy; bi
 | 82–90 min | Cleanup, reflection and next steps |
 
 ## Core lab
-Create a cloud architecture sketch for a student app. If eligible, inspect a learning project and configure a budget notification before deploying anything.
+Create a cloud architecture sketch for a student app and complete the safe-account checklist. Cloud-project inspection is optional and must be facilitator-led; learners do not need to create a project, enable billing or configure a budget alert for this week.
 
 ## Stretch challenge
 Compare a VM, managed application platform and SaaS product for one use case.

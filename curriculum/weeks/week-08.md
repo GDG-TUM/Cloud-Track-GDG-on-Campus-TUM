@@ -3,7 +3,7 @@
 [← All weekly guides](README.md) · [← Curriculum overview](../README.md) · [Step-by-step lab](../labs/week-08-cloud-run-deployment.md)
 
 ## Goal
-Deploy a containerized app to Cloud Run and explain the deployment lifecycle.
+Understand the Cloud Run deployment lifecycle and practise deploying only when an approved project, budget owner and cleanup plan are provided.
 
 ## Learning outcomes
 Explain the concepts below, complete the core lab and identify one relevant failure mode, limitation or security/cost consideration.
@@ -28,7 +28,7 @@ Compute options; Cloud Run; container registry; revisions; environment config; s
 | 82–90 min | Cleanup, reflection and next steps |
 
 ## Core lab
-Deploy the Week 6 container to Cloud Run using the current workflow. Verify health endpoint and logs, then remove or disable the service.
+If the Track Lead has approved a shared project and all pre-deployment checks pass, deploy the Week 6 container to Cloud Run, verify its health endpoint and logs, then remove the service. Otherwise, complete the local Docker alternative in the [Week 8 lab](../labs/week-08-cloud-run-deployment.md); it is valid core evidence.
 
 ## Stretch challenge
 Compare Cloud Run with a VM; explain scaling-to-zero, statelessness and persistent disk needs.
