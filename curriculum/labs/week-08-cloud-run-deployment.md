@@ -106,7 +106,7 @@ gcloud run deploy "$SERVICE" \
   --region="$REGION" \
   --project="$PROJECT_ID" \
   --port=8080 \
-  --memory=256Mi \
+  --memory=512Mi \
   --cpu=1 \
   --min=0 \
   --max=2 \
@@ -116,7 +116,7 @@ gcloud run deploy "$SERVICE" \
 
 The example uses a public endpoint so members can test it without setting up identity federation. It returns only synthetic demo data and is not an authenticated production application. If the project policy disallows public invocations, remove `--allow-unauthenticated` and follow the facilitator's private-service access instructions.
 
-Cloud Run CLI flags and available settings can change. Check `gcloud run deploy --help` and current Google Cloud documentation before the cohort uses this lab.
+The example uses 512 MiB with 1 vCPU, a supported starting configuration. Cloud Run CLI flags and available settings can change. Check `gcloud run deploy --help` and the [Cloud Run deployment guide](https://docs.cloud.google.com/run/docs/deploying) before the cohort uses this lab. Source deployments and Artifact Registry behaviour are described in the [Cloud Run source deployment guide](https://docs.cloud.google.com/run/docs/deploying-source-code).
 
 ## Part F — Verify the deployment
 
