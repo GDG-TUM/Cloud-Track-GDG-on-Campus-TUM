@@ -10,10 +10,10 @@ No. The track starts from the basics. If you can use a laptop and want to learn,
 The sessions and resources are free. Cloud providers can charge for resources left running, so we teach cost control in Week 1 and use free-tier or trial offers where available. Always check the provider's current terms.
 
 ### What if I miss a session?
-Everything is in this repo. Open the week's folder, read the README, do the challenge, and ask questions in the track channel.
+The current programme is organized under `curriculum/`: start with the [16-week roadmap](curriculum/roadmap.md), then use the [weekly guides](curriculum/weeks/README.md) and matching [practical labs](curriculum/labs/README.md). The older `weekly-sessions/` directory is historical pilot material.
 
 ### My laptop is old or slow. Can I still take part?
-Yes. Use **Cloud Shell** (a free browser-based terminal in Google Cloud) and GitHub Codespaces if available to you. Tell the Track Lead and we will help you find a setup.
+Yes. The core labs have local paths wherever practical. Ask the Track Lead about a shared lab machine or an approved browser-based environment if your device cannot run the required tools. Cloud Shell and Codespaces require eligible accounts and may have usage limits; do not enable billing or enter payment details just to participate.
 
 ### Why Google Cloud?
 We are a Google Developer Group chapter, so we focus there. The ideas (compute, storage, networking, identity, CI/CD, IaC, security) transfer directly to AWS and Azure.
