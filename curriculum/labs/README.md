@@ -18,10 +18,14 @@ These labs turn the weekly curriculum into repeatable, evidence-led exercises. C
 | 10 | [Cloud networking](week-10-cloud-networking.md) | Container connectivity diagram and test | No; Docker required |
 | 11 | [CI/CD with GitHub Actions](week-11-ci-cd-github-actions.md) | Automated test/build workflow | GitHub account |
 | 12 | [Terraform and IaC](week-12-terraform-iac.md) | Terraform plan/apply/destroy evidence | No; local provider |
+| 13 | [Cloud security engineering](week-13-cloud-security.md) | Threat model and verified remediation | No; Docker recommended |
+| 14 | [Observability and reliability](week-14-observability-reliability.md) | Telemetry, incident note and runbook | No; Docker and curl recommended |
+| 15 | [Capstone hardening](week-15-capstone-hardening.md) | Peer-reviewed release candidate | No; cloud deployment only if already approved |
+| 16 | [Demo day and retrospective](week-16-capstone-demo-day.md) | Technical demo and individual reflection | No; local or recorded demo accepted |
 
 ## Shared starter application
 
-Weeks 5–8 use the [Cloud Track Demo API](starter-app/README.md). Members build it locally, containerize it, inspect Google Cloud IAM and deploy it (optional). Week 11 adds a CI workflow that tests and builds this same starter app.
+Weeks 5–8 use the [Cloud Track Demo API](starter-app/README.md). Members build it locally, containerize it, inspect Google Cloud IAM and deploy it (optional). Week 11 adds a CI workflow that tests and builds this same starter app. Weeks 13–14 reuse the app as a local example for security and operations exercises; capstone teams should apply the same review to their own projects.
 
 ## Lab conventions
 - Commands are written for a Bash-compatible shell (Linux, macOS, or WSL) unless noted.

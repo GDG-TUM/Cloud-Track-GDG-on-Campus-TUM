@@ -1,6 +1,6 @@
 # Week 14: Observability, reliability and cost
 
-[← All weekly guides](README.md) · [← Curriculum overview](../README.md)
+[← All weekly guides](README.md) · [← Curriculum overview](../README.md) · [Step-by-step lab](../labs/week-14-observability-reliability.md)
 
 ## Goal
 Use telemetry to understand system health and respond to a simple failure.

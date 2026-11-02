@@ -1,6 +1,6 @@
 # Week 16: Demo day and retrospective
 
-[← All weekly guides](README.md) · [← Curriculum overview](../README.md)
+[← All weekly guides](README.md) · [← Curriculum overview](../README.md) · [Step-by-step lab](../labs/week-16-capstone-demo-day.md)
 
 ## Goal
 Demonstrate the project and explain its architecture, decisions and limitations.

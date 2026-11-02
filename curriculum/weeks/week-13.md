@@ -1,6 +1,6 @@
 # Week 13: Cloud security engineering
 
-[← All weekly guides](README.md) · [← Curriculum overview](../README.md)
+[← All weekly guides](README.md) · [← Curriculum overview](../README.md) · [Step-by-step lab](../labs/week-13-cloud-security.md)
 
 ## Goal
 Identify common cloud risks and apply baseline controls.
