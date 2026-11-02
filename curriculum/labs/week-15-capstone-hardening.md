@@ -20,8 +20,9 @@ Do not add features merely to make the project look more complex.
 ## Part B — Reproduce the build and tests
 For the shared starter API, run from the repository root:
 ~~~bash
-python3 -m unittest discover -s curriculum/labs/starter-app/tests -v
-docker build -t cloud-track-demo:release-candidate curriculum/labs/starter-app
+cd curriculum/labs/starter-app
+python3 -m unittest discover -s tests -v
+docker build -t cloud-track-demo:release-candidate .
 docker image inspect cloud-track-demo:release-candidate \
   --format 'User={{.Config.User}} Ports={{json .Config.ExposedPorts}}'
 ~~~
