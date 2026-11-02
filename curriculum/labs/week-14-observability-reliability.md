@@ -22,7 +22,7 @@ Generate requests and inspect response codes and elapsed time:
 ~~~bash
 for path in /healthz /api/info /missing; do
   curl -sS -o /dev/null \
-    -w "$path status=%{http_code} time=%{time_total}s\\n" \
+    -w "$path status=%{http_code} time=%{time_total}s\n" \
     "http://127.0.0.1:18081$path"
 done
 
