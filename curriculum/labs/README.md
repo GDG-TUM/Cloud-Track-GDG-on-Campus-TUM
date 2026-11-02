@@ -14,17 +14,21 @@ These labs turn the weekly curriculum into repeatable, evidence-led exercises. C
 | 6 | [Docker workflows](week-06-docker-workflows.md) | Non-root container image and run evidence | No |
 | 7 | [Google Cloud and IAM](week-07-google-cloud-iam.md) | Resource hierarchy and least-privilege review | Optional; read-only path available |
 | 8 | [Cloud Run deployment](week-08-cloud-run-deployment.md) | Deployed service or local equivalent | Approved project and billing required for deployment |
+| 9 | [Storage and databases](week-09-storage-databases.md) | SQLite persistence and storage decision | No |
+| 10 | [Cloud networking](week-10-cloud-networking.md) | Container connectivity diagram and test | No; Docker required |
+| 11 | [CI/CD with GitHub Actions](week-11-ci-cd-github-actions.md) | Automated test/build workflow | GitHub account |
+| 12 | [Terraform and IaC](week-12-terraform-iac.md) | Terraform plan/apply/destroy evidence | No; local provider |
 
 ## Shared starter application
 
-Weeks 5–8 use the same [Cloud Track Demo API](starter-app/README.md). It has a health endpoint, a configuration endpoint, standard-output request logs and automated tests. Members build it locally in Week 5, containerize it in Week 6, inspect the Google Cloud resource and identity model in Week 7, and deploy the container in Week 8.
+Weeks 5–8 use the [Cloud Track Demo API](starter-app/README.md). Members build it locally, containerize it, inspect Google Cloud IAM and deploy it (optional). Week 11 adds a CI workflow that tests and builds this same starter app.
 
 ## Lab conventions
 - Commands are written for a Bash-compatible shell (Linux, macOS, or WSL) unless noted.
 - Run commands one at a time and inspect output before continuing.
-- Your output may differ by operating system, network, package version or account. Learn to interpret it rather than copy a screenshot.
+- Your output may differ by OS, network, package version or account. Learn to interpret it rather than copy a screenshot.
 - Never paste secrets, access tokens, private keys, personal data or unredacted billing details into evidence.
-- If a command is unavailable, record the operating system and error, then use the alternative in the troubleshooting section.
+- If a command is unavailable, record the OS and error, then use the alternative in troubleshooting.
 - Keep a learning log with: objective, commands, result, explanation, issue encountered and cleanup.
 - Cloud deployment is optional unless the Track Lead has provided an approved project, permissions, budget owner and cleanup plan. Local alternatives are valid evidence.
 
