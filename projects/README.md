@@ -5,7 +5,7 @@
 ## Purpose
 The capstone is a continuous, small team or individual project used to apply the 16-week curriculum. It should solve a bounded problem and demonstrate engineering decisions—not maximize the number of cloud products used.
 
-Explore ideas by Week 4. Build a local baseline in Week 5, containerize in Week 6, deploy in Week 8, connect data by Week 9, automate and provision in Weeks 11–12, then harden and observe it in Weeks 13–15.
+Explore ideas by Week 4. Build a local baseline in Week 5, containerize in Week 6, deploy in Week 8 (optional), connect data by Week 9, automate and provision in Weeks 11–12, then apply the [Week 13 security review](../curriculum/labs/week-13-cloud-security.md), [Week 14 operations review](../curriculum/labs/week-14-observability-reliability.md), [Week 15 release-readiness review](../curriculum/labs/week-15-capstone-hardening.md) and [Week 16 demo](../curriculum/labs/week-16-capstone-demo-day.md).
 
 ## Minimum expectations
 - Clear problem statement and intended user.
