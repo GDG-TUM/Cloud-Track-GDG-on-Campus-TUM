@@ -1,6 +1,6 @@
 # Week 07: Google Cloud foundations and IAM
 
-[← All weekly guides](README.md) · [← Curriculum overview](../README.md)
+[← All weekly guides](README.md) · [← Curriculum overview](../README.md) · [Step-by-step lab](../labs/week-07-google-cloud-iam.md)
 
 ## Goal
 Navigate Google Cloud resource model and explain how identity controls access.

@@ -1,6 +1,6 @@
 # Week 06: Docker and container workflows
 
-[← All weekly guides](README.md) · [← Curriculum overview](../README.md)
+[← All weekly guides](README.md) · [← Curriculum overview](../README.md) · [Step-by-step lab](../labs/week-06-docker-workflows.md)
 
 ## Goal
 Build and run a container image and explain container configuration.
