@@ -1,6 +1,6 @@
 # Week 09: Storage and databases
 
-[← All weekly guides](README.md) · [← Curriculum overview](../README.md)
+[← All weekly guides](README.md) · [← Curriculum overview](../README.md) · [Step-by-step lab](../labs/week-09-storage-databases.md)
 
 ## Goal
 Choose a suitable data service and connect an app without embedding credentials.
