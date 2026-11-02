@@ -1,6 +1,6 @@
 # Week 05: Application runtime and configuration
 
-[← All weekly guides](README.md) · [← Curriculum overview](../README.md)
+[← All weekly guides](README.md) · [← Curriculum overview](../README.md) · [Step-by-step lab](../labs/week-05-application-runtime.md)
 
 ## Goal
 Explain how a web app starts, receives requests and reads configuration.
