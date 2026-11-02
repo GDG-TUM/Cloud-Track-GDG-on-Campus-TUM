@@ -17,8 +17,8 @@ docker build -t cloud-track-demo:week-11 .
 
 Fix or report local failures before automating them.
 
-## Part B — Add a workflow
-Create `.github/workflows/cloud-track-ci.yml`:
+## Part B — Add or inspect a workflow
+In your **own capstone repository**, create `.github/workflows/cloud-track-ci.yml` with the example below. If you are practising inside this Cloud Track curriculum repository, that file already exists: inspect it rather than trying to create a duplicate. The existing workflow is intentionally scoped to changes in the shared starter app and this workflow file.
 ```yaml
 name: Cloud Track CI
 
@@ -51,7 +51,7 @@ jobs:
         run: docker build -t cloud-track-demo:ci curriculum/labs/starter-app
 ```
 
-This workflow is read-only and does not publish an image or deploy infrastructure. Review action versions and repository policy before cohort use.
+This workflow is read-only and does not publish an image or deploy infrastructure. Review action versions and repository policy before cohort use. In your own project, adjust the `paths` filters and working directory to match your app and tests.
 
 ## Part C — Open a pull request
 ```bash
