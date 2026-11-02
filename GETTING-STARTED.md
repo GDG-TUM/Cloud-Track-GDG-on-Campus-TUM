@@ -21,8 +21,9 @@ Complete the basics before Week 1. Install later tools when the relevant week ap
 | Python 3.10+ | Week 5 | `python3 --version` |
 | Docker Engine or Docker Desktop | Week 6 | `docker version` |
 | Google Cloud CLI | Week 7 | `gcloud version` |
+| Terraform | Week 12 | `terraform version` |
 
-Terraform is introduced in Week 12. There is no need to install it yet. If a tool cannot be installed because of device, storage or connectivity limits, tell the Track Lead and ask about an approved alternative.
+Week 9 uses Python's built-in SQLite module. Week 10 uses Docker. Week 11 uses GitHub Actions on GitHub-hosted runners. Week 12 uses Terraform's local provider and does not require a cloud account. If a tool cannot be installed because of device, storage or connectivity limits, tell the Track Lead and ask about an approved alternative.
 
 ## 3. Configure Git before Week 4
 
@@ -45,4 +46,4 @@ Use an email address you are comfortable associating with public commits. Check 
 3. Complete the [practical labs](curriculum/labs/README.md) in sequence.
 4. Keep evidence in a learning log or personal repository. Redact private information.
 
-Start with [Week 1: Cloud concepts and safe setup](curriculum/labs/week-01-cloud-concepts.md). Python, Docker and Google Cloud CLI become relevant later; cloud billing is not required for the local labs.
+Start with [Week 1: Cloud concepts and safe setup](curriculum/labs/week-01-cloud-concepts.md). Cloud billing is not required for the local labs in Weeks 1–7 and 9–12.

@@ -1,6 +1,6 @@
 # Week 11: CI/CD with GitHub Actions
 
-[← All weekly guides](README.md) · [← Curriculum overview](../README.md)
+[← All weekly guides](README.md) · [← Curriculum overview](../README.md) · [Step-by-step lab](../labs/week-11-ci-cd-github-actions.md)
 
 ## Goal
 Automate quality checks and build steps when code changes.

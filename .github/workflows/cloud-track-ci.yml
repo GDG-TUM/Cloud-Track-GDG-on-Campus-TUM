@@ -1,0 +1,29 @@
+name: Cloud Track CI
+
+on:
+  pull_request:
+    paths:
+      - "curriculum/labs/starter-app/**"
+      - ".github/workflows/cloud-track-ci.yml"
+  push:
+    branches: ["main"]
+    paths:
+      - "curriculum/labs/starter-app/**"
+      - ".github/workflows/cloud-track-ci.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  test-and-build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run unit tests
+        working-directory: curriculum/labs/starter-app
+        run: python -m unittest discover -s tests -v
+      - name: Build Docker image
+        run: docker build -t cloud-track-demo:ci curriculum/labs/starter-app
