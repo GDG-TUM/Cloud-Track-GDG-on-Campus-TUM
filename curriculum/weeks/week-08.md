@@ -1,6 +1,6 @@
 # Week 08: Cloud compute and first deployment
 
-[← All weekly guides](README.md) · [← Curriculum overview](../README.md)
+[← All weekly guides](README.md) · [← Curriculum overview](../README.md) · [Step-by-step lab](../labs/week-08-cloud-run-deployment.md)
 
 ## Goal
 Deploy a containerized app to Cloud Run and explain the deployment lifecycle.
