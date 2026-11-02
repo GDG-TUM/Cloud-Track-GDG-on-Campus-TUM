@@ -9,7 +9,7 @@ Complete the basics before Week 1. Install later tools when the relevant week ap
 - [ ] Accepted your invitation to the GDG-TUM organization, if applicable
 - [ ] Google account for later Google Cloud activities; do not enable billing unless the facilitator has explained the cost and approval process
 
-**Cost and safety:** Cloud resources can incur charges. A budget notification is not a spending cap. Do not enter payment details or enable billing just to complete the first seven weeks. Week 8 deployment is optional unless the Track Lead provides an approved project, permissions, budget owner and cleanup plan. Never share credentials or commit tokens, private keys, service-account files or `.env` files.
+**Cost and safety:** Cloud resources can incur charges. A budget notification is not a spending cap. Do not enter payment details or enable billing just to complete the first seven weeks. Week 8 deployment is optional unless the Track Lead provides an approved project, permissions, budget owner and cleanup plan. Weeks 9–16 have local or non-cloud paths. Never share credentials or commit tokens, private keys, service-account files or `.env` files.
 
 ## 2. Tools to install gradually
 
@@ -23,7 +23,7 @@ Complete the basics before Week 1. Install later tools when the relevant week ap
 | Google Cloud CLI | Week 7 | `gcloud version` |
 | Terraform | Week 12 | `terraform version` |
 
-Week 9 uses Python's built-in SQLite module. Week 10 uses Docker. Week 11 uses GitHub Actions on GitHub-hosted runners. Week 12 uses Terraform's local provider and does not require a cloud account. If a tool cannot be installed because of device, storage or connectivity limits, tell the Track Lead and ask about an approved alternative.
+Week 9 uses Python's built-in SQLite module. Weeks 10, 13 and 14 use Docker. Week 11 uses GitHub Actions on GitHub-hosted runners. Week 12 uses Terraform's local provider and does not require a cloud account. Gitleaks is an optional secret-scanning tool in Week 13; follow its official installation instructions if attempting the stretch exercise. If a tool cannot be installed because of device, storage or connectivity limits, ask the Track Lead about an approved alternative.
 
 ## 3. Configure Git before Week 4
 
@@ -46,4 +46,4 @@ Use an email address you are comfortable associating with public commits. Check 
 3. Complete the [practical labs](curriculum/labs/README.md) in sequence.
 4. Keep evidence in a learning log or personal repository. Redact private information.
 
-Start with [Week 1: Cloud concepts and safe setup](curriculum/labs/week-01-cloud-concepts.md). Cloud billing is not required for the local labs in Weeks 1–7 and 9–12.
+Start with [Week 1: Cloud concepts and safe setup](curriculum/labs/week-01-cloud-concepts.md). Cloud billing is not required for local labs; cloud deployments are optional and require explicit approval, budget awareness and a cleanup plan.
