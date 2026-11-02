@@ -2,29 +2,29 @@
 - [🚀 Getting Started](/GETTING-STARTED.md)
 - [❓ FAQ](/FAQ.md)
 
-- **🗓️ Plan**
-  - [Semester Roadmap](/roadmap/semester-roadmap.md)
-  - [Weekly Sessions](/weekly-sessions/README.md)
-    - [Week 1: Cloud fundamentals](/weekly-sessions/week-01-cloud-fundamentals/README.md)
-    - [Week 2: Tools of the trade](/weekly-sessions/week-02-tools-of-the-trade/README.md)
-    - [Week 3: Compute and containers](/weekly-sessions/week-03-compute-and-containers/README.md)
-    - [Week 4: Agentic AI study jam](/weekly-sessions/week-04-agentic-ai-study-jam/README.md)
-    - [Week 5: Hackathon week](/weekly-sessions/week-05-hackathon-week/README.md)
-    - [Week 6: Debrief and data](/weekly-sessions/week-06-debrief-and-data/README.md)
-    - [Week 7: CI/CD](/weekly-sessions/week-07-cicd-github-actions/README.md)
-    - [Week 8: Infrastructure as Code](/weekly-sessions/week-08-infrastructure-as-code/README.md)
-    - [Week 9: Security and monitoring](/weekly-sessions/week-09-security-and-monitoring/README.md)
-    - [Week 10: Demo day](/weekly-sessions/week-10-demo-day/README.md)
-
-- **🧭 Learn**
-  - [Learning Path](/learning-path/README.md)
-    - [1. Foundations](/learning-path/01-foundations.md)
-    - [2. Tools](/learning-path/02-tools.md)
-    - [3. Build and deploy](/learning-path/03-build-and-deploy.md)
-    - [4. CI/CD and IaC](/learning-path/04-cicd-and-iac.md)
-    - [5. Security and observability](/learning-path/05-security-and-observability.md)
-    - [6. AI on the cloud](/learning-path/06-ai-on-cloud.md)
-  - [🏆 Hackathon Prep](/hackathon-prep/README.md)
+- **🧭 Curriculum**
+  - [Programme overview](/curriculum/README.md)
+  - [16-week roadmap](/curriculum/roadmap.md)
+  - [Assessment framework](/curriculum/assessment.md)
+  - [Instructor guide](/curriculum/instructor-guide.md)
+  - Weekly guides
+    - [Week 01](/curriculum/weeks/week-01.md)
+    - [Week 02](/curriculum/weeks/week-02.md)
+    - [Week 03](/curriculum/weeks/week-03.md)
+    - [Week 04](/curriculum/weeks/week-04.md)
+    - [Week 05](/curriculum/weeks/week-05.md)
+    - [Week 06](/curriculum/weeks/week-06.md)
+    - [Week 07](/curriculum/weeks/week-07.md)
+    - [Week 08](/curriculum/weeks/week-08.md)
+    - [Week 09](/curriculum/weeks/week-09.md)
+    - [Week 10](/curriculum/weeks/week-10.md)
+    - [Week 11](/curriculum/weeks/week-11.md)
+    - [Week 12](/curriculum/weeks/week-12.md)
+    - [Week 13](/curriculum/weeks/week-13.md)
+    - [Week 14](/curriculum/weeks/week-14.md)
+    - [Week 15](/curriculum/weeks/week-15.md)
+    - [Week 16](/curriculum/weeks/week-16.md)
+  - [Optional AI extension](/curriculum/ai-extension.md)
 
 - **🚀 Build**
   - [Capstone Guide](/projects/README.md)
@@ -45,3 +45,7 @@
     - [gcloud](/resources/cheatsheets/gcloud.md)
     - [Linux](/resources/cheatsheets/linux.md)
     - [Terraform](/resources/cheatsheets/terraform.md)
+
+- **🗃️ Previous pilot**
+  - [10-week pilot materials](/weekly-sessions/README.md)
+  - [Hackathon preparation](/hackathon-prep/README.md)

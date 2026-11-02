@@ -1,34 +1,26 @@
+# Cloud Track Capstone Projects
+
 [← Back to Cloud Track home](../README.md)
 
+## Purpose
+The capstone is a continuous, small team or individual project used to apply the 16-week curriculum. It should solve a bounded problem and demonstrate engineering decisions—not maximize the number of cloud products used.
 
-# 🚀 Capstone Projects
+Explore ideas by Week 4. Build a local baseline in Week 5, containerize in Week 6, deploy in Week 8, connect data by Week 9, automate and provision in Weeks 11–12, then harden and observe it in Weeks 13–15.
 
-From week 6, members work in teams of 3 to 4 on a project that is **deployed, documented and demoed** on demo day (14 Dec).
+## Minimum expectations
+- Clear problem statement and intended user.
+- Small, working core workflow.
+- README with setup, run, test and deployment instructions.
+- Architecture diagram and explanation of key decisions.
+- Incremental Git history; use issues and pull requests for collaboration.
+- Tests or repeatable checks.
+- Deployment or clearly documented local equivalent.
+- Security and cost considerations, including cleanup instructions.
+- Short demo and individual reflection.
 
-## What every project needs
-- [ ] A public repo in the GDG-TUM org (or a member's account, linked in the showcase)
-- [ ] A clear `README` (use the [project template](project-template.md))
-- [ ] A live demo or recording
-- [ ] Architecture diagram
-- [ ] CI that runs on pull requests
-- [ ] No secrets in the repo, and resources cleaned up or budget-safe
-- [ ] A short write-up of what the team learned
+Teams of 2–4 are recommended, but solo projects are valid. Rotate responsibilities so every member understands the application, deployment and operational choices.
 
-## How to start
-1. Read the [project ideas](ideas.md)
-2. Form a team (week 6)
-3. Open a **Capstone proposal** issue in this repo
-4. Get a quick review from the Track Lead
-5. Create your repo from the template and start building
+## Scope guardrails
+A small, complete application is better than an ambitious unfinished platform. Avoid real personal data; prefer synthetic data. Do not introduce Kubernetes, microservices, complex agent frameworks or multiple providers unless the core project works and the team can justify the added complexity.
 
-## Timeline
-| Week | Milestone |
-|------|-----------|
-| 6 | Team formed, proposal submitted |
-| 7 | CI pipeline in place |
-| 8 | Infrastructure defined in Terraform (where it fits) |
-| 9 | Security review done, monitoring added |
-| 10 | Demo day |
-
-## Showcase
-Finished projects are listed in the [showcase](showcase.md).
+See [project ideas](ideas.md), the [project template](project-template.md) and the [assessment rubric](../curriculum/assessment.md).
