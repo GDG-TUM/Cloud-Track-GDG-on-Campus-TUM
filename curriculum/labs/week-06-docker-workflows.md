@@ -40,6 +40,8 @@ Expected: the configured user is `appuser`, the image exposes port 8080 and star
 
 ## Part B — Run the container
 
+Stop the Week 5 local Python server with Ctrl+C before publishing host port 8080. If another service already uses that port, use a different host port as shown in Part D.
+
 ```bash
 docker run -d --name cloud-track-demo -p 8080:8080 \
   -e APP_MESSAGE="Hello from Docker" \
