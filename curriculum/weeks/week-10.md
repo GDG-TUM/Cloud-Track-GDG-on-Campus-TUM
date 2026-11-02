@@ -1,6 +1,6 @@
 # Week 10: Cloud networking and service connectivity
 
-[← All weekly guides](README.md) · [← Curriculum overview](../README.md)
+[← All weekly guides](README.md) · [← Curriculum overview](../README.md) · [Step-by-step lab](../labs/week-10-cloud-networking.md)
 
 ## Goal
 Explain how cloud network boundaries affect reachability and service communication.
