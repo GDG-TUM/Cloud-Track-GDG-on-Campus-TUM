@@ -18,7 +18,7 @@ docker build -t cloud-track-demo:week-11 .
 Fix or report local failures before automating them.
 
 ## Part B — Add or inspect a workflow
-In your **own capstone repository**, create `.github/workflows/cloud-track-ci.yml` with the example below. If you are practising inside this Cloud Track curriculum repository, that file already exists: inspect it rather than trying to create a duplicate. The existing workflow is intentionally scoped to changes in the shared starter app and this workflow file.
+This Cloud Track repository already contains `.github/workflows/cloud-track-ci.yml`. When completing the lab here, inspect that existing workflow and map each section to the concepts below; do not try to create a duplicate. To practise authoring CI in your **own capstone repository**, create a workflow there using the example, then change the `paths`, working directory and build command to match files that actually exist in that repository.
 ```yaml
 name: Cloud Track CI
 
@@ -51,17 +51,23 @@ jobs:
         run: docker build -t cloud-track-demo:ci curriculum/labs/starter-app
 ```
 
-This workflow is read-only and does not publish an image or deploy infrastructure. Review action versions and repository policy before cohort use. In your own project, adjust the `paths` filters and working directory to match your app and tests.
+This workflow is read-only and does not publish an image or deploy infrastructure. The example paths and working directory refer specifically to this curriculum repository's starter app; they will not work unchanged in a separate project unless you copy the app into the same directory structure. Review action versions and repository policy before cohort use.
 
-## Part C — Open a pull request
+## Part C — Trigger and inspect CI
+
+**Working in this curriculum repository:** create a branch, make a small meaningful change under `curriculum/labs/starter-app/` (for example, add a test), run the checks locally, then push and open a PR. The existing path filter will trigger the workflow for that change.
+
+**Working in your own capstone repository:** add your adapted workflow and the corresponding app/test changes to a feature branch, then push and open a PR.
+
 ```bash
 git switch -c lab/week-11-ci
-git add .github/workflows/cloud-track-ci.yml
-git commit -m "ci: add Cloud Track test and image build workflow"
+# Stage the workflow and/or the app/test files you changed.
+git add .github/workflows/cloud-track-ci.yml curriculum/labs/starter-app/
+git commit -m "ci: add or exercise the Cloud Track CI workflow"
 git push -u origin lab/week-11-ci
 ```
 
-Open a PR against main. Inspect the Checks section and individual steps.
+If you are working in this curriculum repository, omit the workflow path from `git add` unless you actually changed it. Open a PR against `main`, then inspect the Checks section and individual steps.
 
 ## Part D — Prove failures are visible
 In a temporary branch only, change one expected test value to an intentionally incorrect value. Push and confirm CI fails, then revert immediately. Never merge a deliberately failing test or weaken tests to get a green result.
