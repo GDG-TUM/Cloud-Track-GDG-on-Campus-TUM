@@ -1,6 +1,6 @@
 # Week 12: Infrastructure as Code with Terraform
 
-[← All weekly guides](README.md) · [← Curriculum overview](../README.md)
+[← All weekly guides](README.md) · [← Curriculum overview](../README.md) · [Step-by-step lab](../labs/week-12-terraform-iac.md)
 
 ## Goal
 Describe and safely manage infrastructure changes declaratively.
