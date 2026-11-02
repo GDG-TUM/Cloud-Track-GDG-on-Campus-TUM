@@ -185,7 +185,15 @@ gcloud run services delete "$SERVICE" \
   --region="$REGION" --project="$PROJECT_ID"
 ```
 
-Delete only the lab image tag/artifact using the Artifact Registry console or the exact artifact delete command approved by the project owner. Do not delete a shared repository that contains other members' images.
+If the project owner confirms that this image tag belongs only to your lab, remove that artifact:
+
+```bash
+gcloud artifacts docker images delete \\
+  "$REGION-docker.pkg.dev/$PROJECT_ID/$REPOSITORY/$IMAGE:week-08" \\
+  --delete-tags --quiet --project="$PROJECT_ID"
+```
+
+This deletes the image version/tag referenced by the command. Do not delete a shared repository that contains other members' images. If the image is shared, leave it in place and record that the owner is responsible for retention.
 
 Verify the service is gone:
 
